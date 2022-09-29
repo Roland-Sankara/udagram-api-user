@@ -1,2 +1,2 @@
 # Udagram-Api-User
-This is a microservice for the udagram-api user requests. 
+This is a microservice repo for the udagram-api user requests. 
